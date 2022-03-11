@@ -1,6 +1,8 @@
 # Movie App Flutter
 
 ## Proyek Akhir Belajar Membuat Aplikasi Flutter untuk Pemula
+Repository ini adalah tugas proyek akhir dari kelas Belajar Membuat Aplikasi Flutter untuk Pemula di [Dicoding](dicoding.com).<br>
+[![Platform](https://img.shields.io/badge/Platform-flutter-blue.svg)](http://developer.android.com/index.html)
 
 ### Screenshots
 
