@@ -1,7 +1,7 @@
 # Movie App Flutter
 
 ## Proyek Akhir Belajar Membuat Aplikasi Flutter untuk Pemula
-Repository ini adalah tugas proyek akhir dari kelas Belajar Membuat Aplikasi Flutter untuk Pemula di [Dicoding](dicoding.com).<br>
+This repository is a final project assignment from the Learn to Create Flutter Applications for Beginners class at [Dicoding](dicoding.com).<br>
 [![Platform](https://img.shields.io/badge/Platform-flutter-blue.svg)](http://developer.android.com/index.html)
 
 ### Screenshots
@@ -20,3 +20,7 @@ Repository ini adalah tugas proyek akhir dari kelas Belajar Membuat Aplikasi Flu
         style="margin-right: 10px;"    
         width="200" />
 </p>
+
+### Features
+* Showing the information detail of movie such as synopsis and rating
+* Adding your favorite list of movie
