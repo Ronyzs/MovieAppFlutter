@@ -27,5 +27,5 @@ Several features in this application:
 * Showing the information detail of movie such as synopsis and rating
 * Adding your favorite list of movie
 
-Contact
+## Contact
 Bagas Rony Hidayat - [Instagram](https://www.instagram.com/ronyzs_/)
