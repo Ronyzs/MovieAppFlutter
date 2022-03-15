@@ -28,5 +28,5 @@ Several features in this application:
 * Adding your favorite list of movie
 
 ## Contact
-Bagas Rony Hidayat - [Instagram](https://www.instagram.com/ronyzs_/)
+Bagas Rony Hidayat - [Instagram](https://www.instagram.com/ronyzs_/)<br>
 Bagas Rony Hidayat - [LinkedIn](linkedin.com/in/bagas-rony-hidayat-179254231)
