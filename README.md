@@ -29,3 +29,4 @@ Several features in this application:
 
 ## Contact
 Bagas Rony Hidayat - [Instagram](https://www.instagram.com/ronyzs_/)
+Bagas Rony Hidayat - [LinkedIn](linkedin.com/in/bagas-rony-hidayat-179254231)
